@@ -1,0 +1,10 @@
+{
+  "command": "run",
+  "manualTweet": {
+    "enabled": true,
+    "content": "hi",
+    "type": "single",
+    "tweetCount": 1,
+    "processed": false
+  }
+}
